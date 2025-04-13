@@ -21,4 +21,4 @@ jobs:
 
       - name: Run tests with pytest
         run: |
-          pytest  --maxfail=5 --disavle-warnings
+          pytest  --maxfail=5 --disable-warnings
